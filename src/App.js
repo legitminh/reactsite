@@ -2,6 +2,7 @@
 import { Route, Routes } from 'react-router-dom';
 import Layout from './components/Layout'
 import './App.scss';
+import Sidebar from './components/Sidebar';
 
 function App() {
   return (
